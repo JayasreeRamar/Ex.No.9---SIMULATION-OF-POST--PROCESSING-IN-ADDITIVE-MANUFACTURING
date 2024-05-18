@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+### Name: Jayasree R
+### Register Number: 212223230087
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
